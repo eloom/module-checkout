@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Eloom_Checkout::config"
+             title="Checkout"
+             module="Eloom_Checkout"
+             action="adminhtml/system_config/edit/section/eloom_checkout"
+             parent="Eloom_Core::menu"
+             resource="Eloom_Checkout::config"
+             sortOrder="40"/>
+    </menu>
+</config>

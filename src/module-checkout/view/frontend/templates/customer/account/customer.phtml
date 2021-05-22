@@ -1,0 +1,14 @@
+<?php
+/** @var $block Eloom\Checkout\Block\Customer\Account\Customer */
+?>
+<span data-eloom-customer-taxvat></span>
+
+<script type="text/x-magento-init">
+  {
+      "[data-eloom-customer-taxvat]": {
+          "Eloom_Checkout/js/component/unique-taxvat-manager": {
+						"config": <?= $block->getJsonConfig() ?>
+					}
+      }
+  }
+</script>

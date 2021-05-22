@@ -1,0 +1,41 @@
+{
+  "name": "eloom/module-checkout",
+  "description": "Checkout para Magento 2",
+  "homepage": "https://www.eloom.com.br/checkout",
+  "keywords": [
+    "magento",
+    "magento 2",
+    "commerce",
+    "ecommerce",
+    "e-commerce",
+    "shop",
+    "checkout",
+    "eloom"
+  ],
+  "authors": [
+    {
+      "name": "eloom.com.br",
+      "email": "contato@eloom.com.br"
+    }
+  ],
+  "support": {
+    "email": "contato@eloom.com.br"
+  },
+  "require": {
+    "php": "~7.3|~7.4",
+    "magento/framework": "103.0.*",
+    "eloom/module-geolocation": "dev-master"
+  },
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "autoload": {
+    "files": [
+      "src/module-checkout/registration.php"
+    ],
+    "psr-4": {
+      "Eloom\\Checkout\\": "src/module-checkout"
+    }
+  }
+}
