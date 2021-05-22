@@ -24,7 +24,7 @@
   "require": {
     "php": "~7.3|~7.4",
     "magento/framework": "103.0.*",
-    "eloom/module-geolocation": "dev-master"
+    "eloom/module-geolocation": "dev-main"
   },
   "license": [
     "OSL-3.0",

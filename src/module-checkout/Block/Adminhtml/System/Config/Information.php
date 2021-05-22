@@ -19,7 +19,7 @@ use Magento\Framework\Data\Form\Element\AbstractElement;
 
 class Information extends \Magento\Config\Block\System\Config\Form\Fieldset {
 
-	private $userGuide = 'https://docs.eloom.dev/checkout/';
+	private $userGuide = 'https://docs.eloom.com.br/checkout/';
 
 	protected $fieldRenderer;
 
