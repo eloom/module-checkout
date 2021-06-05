@@ -1,5 +1,28 @@
 # Checkout para Magento 2
 
+## Projeto Checkout
+
+Acesse a página do projeto [Checkout para Magento 2](https://www.eloom.com.br/checkout) e tenha uma visão completa de todos os recursos que nossa integração oferece.
+
+## Requisitos Técnicos
+
+| Requisito | Versão |
+| ------ | ----------- |
+| Magento Open Source, Adobe Commerce | >= 2.3.2, >= 2.4.x |
+| PHP, PHP-FPM | 7.2, 7.3, 7.4 |
+
+
+## Recursos e Funcionalidades
+
+- [x] auto-complete de endereços com os providers: Correios e ViaCEP;
+- [x] validação de duplicidade de CPF/CNPJ no cadastro de clientes;
+- [x] ordenação e obrigatoriedade dos campos **logradouro**, **número** e **bairro** do endereço;
+- [x] deixar opcional o campo **complemento** do endereço;
+
+## Guia de instalação
+
+Consulte a seção [Instalando o módulo](https://docs.eloom.com.br/pt/checkout#instalando-o-modulo) de Checkout no Magento 2.
+
 ## Links
 
 * [Web site](https://www.eloom.com.br/checkout)
