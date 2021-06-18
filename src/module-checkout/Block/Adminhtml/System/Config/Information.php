@@ -5,7 +5,7 @@
 * 
 * @category     Ã©lOOm
 * @package      Modulo Checkout
-* @copyright    Copyright (c) 2020 Ã©lOOm (https://www.eloom.com.br)
+* @copyright    Copyright (c) 2021 Ã©lOOm (https://eloom.tech)
 * @version      1.0.0
 * @license      https://opensource.org/licenses/OSL-3.0
 * @license      https://opensource.org/licenses/AFL-3.0
@@ -19,7 +19,7 @@ use Magento\Framework\Data\Form\Element\AbstractElement;
 
 class Information extends \Magento\Config\Block\System\Config\Form\Fieldset {
 
-	private $userGuide = 'https://docs.eloom.com.br/checkout/';
+	private $userGuide = 'https://docs.eloom.tech/checkout/';
 
 	protected $fieldRenderer;
 

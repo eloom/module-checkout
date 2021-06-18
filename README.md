@@ -2,7 +2,7 @@
 
 ## Projeto Checkout
 
-Acesse a página do projeto [Checkout para Magento 2](https://www.eloom.com.br/checkout) e tenha uma visão completa de todos os recursos que nossa integração oferece.
+Acesse a página do projeto [Checkout para Magento 2](https://eloom.tech/checkout) e tenha uma visão completa de todos os recursos que nossa integração oferece.
 
 ## Requisitos Técnicos
 
@@ -21,7 +21,7 @@ Acesse a página do projeto [Checkout para Magento 2](https://www.eloom.com.br/c
 
 ## Guia de instalação
 
-Consulte a seção [Instalando o módulo](https://docs.eloom.com.br/pt/checkout#instalando-o-modulo) de Checkout no Magento 2.
+Consulte a seção [Instalando o módulo](https://docs.eloom.tech/pt/checkout#instalando-o-modulo) de Checkout no Magento 2.
 
 ## Sugestões
 
@@ -29,8 +29,8 @@ Melhore a usabilidade da sua loja virtual com nosso [Módulo de máscaras BR](ht
 
 ## Links
 
-* [Web site](https://www.eloom.com.br/checkout)
-* [Documentação](https://docs.eloom.com.br/checkout)
+* [Web site](https://eloom.tech/checkout)
+* [Documentação](https://docs.eloom.tech/checkout)
 * [Issue tracker](https://github.com/eloom/module-checkout/issues)
 * [Composer](https://app.repman.io/organization/eloom-open/package/0e1edd3a-b555-4195-91fa-256ab9f6c73d/details)
 * [Código fonte](https://github.com/eloom/module-checkout)
