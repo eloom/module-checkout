@@ -32,5 +32,5 @@ Melhore a usabilidade da sua loja virtual com nosso [Módulo de máscaras BR](ht
 * [Web site](https://eloom.tech/checkout)
 * [Documentação](https://docs.eloom.tech/checkout)
 * [Issue tracker](https://github.com/eloom/module-checkout/issues)
-* [Composer](https://app.repman.io/organization/eloom-open/package/0e1edd3a-b555-4195-91fa-256ab9f6c73d/details)
+* [Composer](https://app.repman.io/organization/eloom/package/0e1edd3a-b555-4195-91fa-256ab9f6c73d/details)
 * [Código fonte](https://github.com/eloom/module-checkout)
