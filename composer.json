@@ -21,6 +21,8 @@
   "support": {
     "email": "contato@eloom.com.br"
   },
+  "minimum-stability": "dev",
+  "prefer-stable" : true,
   "require": {
     "php": "~7.3|~7.4",
     "magento/framework": "103.0.*",

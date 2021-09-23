@@ -26,8 +26,7 @@
 																	</item>
 																	<item name="children" xsi:type="array">
 																		<item name="errors" xsi:type="array">
-																			<item name="sortOrder" xsi:type="string">0
-																			</item>
+																			<item name="sortOrder" xsi:type="string">0</item>
 																			<item name="component" xsi:type="string">
 																				Magento_SalesRule/js/view/payment/discount-messages
 																			</item>
