@@ -108,7 +108,7 @@
 											</item>
 										</item>
 										<item name="success-step" xsi:type="array">
-											<item name="component" xsi:type="string">Eloom_Checkout/js/view/success</item>
+											<item name="component" xsi:type="string">Eloom_Checkout/js/view/step-success</item>
 										</item>
 									</item>
 								</item>
