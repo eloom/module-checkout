@@ -1,7 +1,7 @@
 {
   "name": "eloom/module-checkout",
-  "description": "Checkout para Magento 2",
-  "homepage": "https://eloom.tech/checkout",
+  "description": "Checkout para Magento",
+  "homepage": "https://eloom.tech/",
   "keywords": [
     "magento",
     "magento 2",
@@ -26,7 +26,7 @@
   "require": {
     "php": "~7.3|~7.4",
     "magento/framework": "103.0.*",
-    "eloom/module-geolocation": "dev-main"
+    "eloom/module-geolocation": "1.0.*"
   },
   "license": [
     "OSL-3.0",
