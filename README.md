@@ -7,7 +7,6 @@
 | Magento Open Source, Adobe Commerce | >= 2.4.x |
 | PHP, PHP-FPM | 7.3, 7.4 |
 
-
 ## Recursos e Funcionalidades
 
 - [x] auto-complete de endereços com os providers: Correios e ViaCEP;
