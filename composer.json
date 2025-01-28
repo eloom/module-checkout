@@ -25,8 +25,7 @@
   "prefer-stable" : true,
   "require": {
     "php": "~8.3",
-    "magento/framework": "103.0.*",
-    "eloom/module-geolocation": "dev-main"
+    "magento/framework": "103.0.*"
   },
   "license": [
     "OSL-3.0",

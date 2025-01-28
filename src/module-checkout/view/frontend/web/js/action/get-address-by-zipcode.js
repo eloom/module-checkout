@@ -1,1 +1,1 @@
-define(["mage/storage","Eloom_Core/js/model/url-builder"],function(c,d){return function(a,e){return c.post(d.createUrl("/eloom/geolocation/address",{}),JSON.stringify({zipcode:e}),!1).done(function(b){b&&b.erro?a.reject():a.resolve()}).fail(function(){a.reject()})}});
+define(["mage/storage","Eloom_Core/js/model/url-builder"],function(c,d){return function(a,e){return c.post(d.createUrl("/eloom/checkput/address",{}),JSON.stringify({zipcode:e}),!1).done(function(b){b&&b.erro?a.reject():a.resolve()}).fail(function(){a.reject()})}});
