@@ -1,7 +1,7 @@
 {
   "name": "eloom/module-checkout",
   "description": "Checkout para Magento",
-  "homepage": "https://eloom.tech/",
+  "homepage": "https://eloom.com.br/",
   "keywords": [
     "magento",
     "magento 2",
@@ -24,7 +24,7 @@
   "minimum-stability": "dev",
   "prefer-stable" : true,
   "require": {
-    "php": "~7.3|~7.4",
+    "php": "~8.3",
     "magento/framework": "103.0.*",
     "eloom/module-geolocation": "dev-main"
   },
