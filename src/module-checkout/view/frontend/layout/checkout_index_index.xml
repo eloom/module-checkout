@@ -7,7 +7,7 @@
 			       name="checkout_ssl"
 			       template="Eloom_Checkout::html/ssl.phtml"/>
 		</referenceContainer>
-		
+
 		<referenceBlock name="checkout.root">
 			<arguments>
 				<argument name="jsLayout" xsi:type="array">
@@ -54,7 +54,7 @@
 																</item>
 															</item>
 														</item>
-														
+
 														<item name="afterMethods" xsi:type="array">
 															<item name="config" xsi:type="array">
 																<item name="componentDisabled" xsi:type="boolean">true

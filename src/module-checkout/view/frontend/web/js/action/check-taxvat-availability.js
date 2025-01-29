@@ -1,1 +1,1 @@
-define(["mage/storage","Eloom_Core/js/model/url-builder"],function(b,c){return function(a,d){return b.post(c.createUrl("/eloom/checkout/taxvat",{}),JSON.stringify({taxvat:d}),!1).done(function(e){e?a.resolve():a.reject()}).fail(function(){a.reject()})}});
+define(["mage/storage","Magento_Checkout/js/model/url-builder"],function(b,c){return function(a,d){return b.post(c.createUrl("/eloom/checkout/taxvat",{}),JSON.stringify({taxvat:d}),!1).done(function(e){e?a.resolve():a.reject()}).fail(function(){a.reject()})}});
